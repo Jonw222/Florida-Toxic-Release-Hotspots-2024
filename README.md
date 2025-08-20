@@ -2,7 +2,8 @@
 Interactive map of Florida Toxic Release Hotspots (TR)I 2024 facility releases using proportional circles, chemical filters, clustering, and a Space Coast zoom. It is built with Leaflet.
 
 ## View Live map
-[Open the map] (https://jonw222.github.io/Florida-Toxic-Release-Hotspots-2024/)
+[Open the Map](https://jonw222.github.io/Florida-Toxic-Release-Hotspots-2024/)
+
 
 # Data Source and Sample
 ### Primary Dataset
