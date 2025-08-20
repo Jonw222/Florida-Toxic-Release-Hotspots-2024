@@ -29,7 +29,7 @@ Facility coordinates and crosswalks are governed by the Facility Registry Servic
  Florida statewide, with attention to clusters near the Space Coast as a use case.
 - When:
 Reporting year: 2024.
-- Title
+- Title:
 Florida Toxics Release Hotspots 2024
 - Subtitle:
  Mapping facility reported releases and transfers that matter for environmental health
