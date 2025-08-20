@@ -7,7 +7,7 @@ Interactive map of Florida Toxic Release Hotspots (TR)I 2024 facility releases u
 
 # Data Source and Sample
 ### Primary Dataset
- EPA Toxics Release Inventory (TRI) 2024 Preliminary, Basic Data Files, Florida subset is the primary dataset (downloaded data is in the assignment folder): https://www.epa.gov/toxics-release-inventory-tri-program/2024-tri-preliminary-dataset-basic-data-files
+ EPA Toxics Release Inventory (TRI) 2024 Preliminary, Basic Data Files, Florida subset is the primary dataset (downloaded data is in the assignment folder): https://www.epa.gov/toxics-release-inventory-tri-program/2024-tri-preliminary-dataset-basic-data-files.
  These state-level CSV includes facility location, chemical identifiers, and quantities for on site releases and off site transfers. EPA confirms the 2024 preliminary files include forms processed as of July 9, 2025, and that “Basic” files contain the 100 most-used TRI fields in CSV format. According to the EPA’s data dictionary for the Basic files, the CSVs include ```YEAR, TRIFID (facility ID), FRS ID, FACILITY NAME, CITY, STATE, LATITUDE, LONGITUDE, PRIMARY NAICS, CHEMICAL```, and aggregated quantities such as ```TOTAL RELEASES and off site totals```. Coordinates come from EPA’s Facility Registry Service. 
 
 ### Geospatial Enrichment
