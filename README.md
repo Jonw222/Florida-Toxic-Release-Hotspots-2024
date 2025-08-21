@@ -4,6 +4,8 @@ Interactive map of Florida Toxic Release Hotspots (TR)I 2024 facility releases u
 ## View Live map
 [Open the Map](https://jonw222.github.io/Florida-Toxic-Release-Hotspots-2024/)
 
+- Latest/updated map version: [Open the Map](https://jonw222.github.io/Florida-Toxic-Release-Hotspots-2024-V2/)
+
 
 # Data Source and Sample
 ### Primary Dataset
